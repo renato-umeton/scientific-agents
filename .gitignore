@@ -1,0 +1,22 @@
+# Editor and agent tooling (local)
+.agents/
+.claude/
+.cursorignore
+
+# Root repo guides (local copies; expert profiles keep their own AGENTS.md)
+/AGENTS.md
+/CLAUDE.md
+
+# Local scripts (not published)
+scripts/
+
+# Python — build and packaging
+__pycache__/
+*.py[oc]
+*.egg-info/
+build/
+dist/
+wheels/
+
+# Python — virtual environments
+.venv/
