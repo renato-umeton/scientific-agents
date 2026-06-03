@@ -1,5 +1,11 @@
 <div align="center">
 
+[![Website](https://img.shields.io/badge/Website-k--dense.ai-2EA6A0?logo=googlechrome&logoColor=white)](https://www.k-dense.ai)
+[![Follow on X](https://img.shields.io/badge/Follow_on_X-%40k__dense__ai-000000?logo=x)](https://x.com/k_dense_ai)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-K--Dense_Inc.-0A66C2?logo=linkedin)](https://www.linkedin.com/company/k-dense-inc)
+[![YouTube](https://img.shields.io/badge/YouTube-K--Dense_Inc.-FF0000?logo=youtube)](https://www.youtube.com/@K-Dense-Inc)
+[![Expert Profiles](https://img.shields.io/badge/Expert_Profiles-503-7C3AED)](#agents)
+
 # Scientific Agents
 
 **Turn any AI agent into an AI Scientist.**
@@ -7,12 +13,6 @@
 Expert-thinking profiles: each `AGENTS.md` teaches an AI agent to reason like a senior
 practitioner in one scientific or engineering profession — how it frames problems, the
 tools and data it reaches for, how it stress-tests claims, and how it reports findings.
-
-[![Website](https://img.shields.io/badge/Website-k--dense.ai-2EA6A0?logo=googlechrome&logoColor=white)](https://www.k-dense.ai)
-[![Follow on X](https://img.shields.io/badge/Follow_on_X-%40k__dense__ai-000000?logo=x)](https://x.com/k_dense_ai)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-K--Dense_Inc.-0A66C2?logo=linkedin)](https://www.linkedin.com/company/k-dense-inc)
-[![YouTube](https://img.shields.io/badge/YouTube-K--Dense_Inc.-FF0000?logo=youtube)](https://www.youtube.com/@K-Dense-Inc)
-[![Expert Profiles](https://img.shields.io/badge/Expert_Profiles-503-7C3AED)](#agents)
 
 </div>
 
